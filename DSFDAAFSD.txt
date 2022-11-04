@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 adrggdagfdagfdagaagfdagfdasfddsaf
 DAADADA
+=======
+AFDSFDSAFDSAAFDSadrggdagfdagfdagaagfdagfdasfddsaf
+>>>>>>> 267af32419d147383a721627881b2337a6cf6fc8
