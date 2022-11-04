@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+adrggdagfdagfdagaagfdagfdasfddsaf
+DAADADA
+=======
 AFDSFDSAFDSAAFDSadrggdagfdagfdagaagfdagfdasfddsaf
+<<<<<<< HEAD
 	QQADW
+=======
+>>>>>>> 267af32419d147383a721627881b2337a6cf6fc8
+>>>>>>> 436b3e99eb1650931649f8d622b9efea039632bf
